@@ -83,8 +83,6 @@ Estou sempre em busca de **novos desafios** e conhecimentos para crescer na áre
 </div>
 
 ---
-
-## Tecnologias que Uso
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
   <img width="12"/>
@@ -106,7 +104,7 @@ Estou sempre em busca de **novos desafios** e conhecimentos para crescer na áre
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="40" alt="powerbi logo"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" height="40" alt="powerbi logo"/>
 </div>
 
 ---
