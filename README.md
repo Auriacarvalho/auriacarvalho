@@ -33,16 +33,16 @@ Sou **proativa**, com foco em resultados, habilidades em resolução de problema
 ## Certificações e Cursos
 
 ### Certificações com Chaves de Diploma
-- 🌐 **Big Data e Análise** – Chave: 4931993a6c6359dad37a5fc945ce6883  
-- ⛓️ **Blockchain Avançado** – Chave: c3c60d6a82776a116706d1c94026269f  
-- 📈 **Inteligência de Negócios (BI)** – Chave: ee218ea08060924d7dc3e07971caefe1  
-- ☁️ **Arquiteto de Fundamentos, Administração e Soluções de Cloud** – Chave: ba663624482b70b8f20a50ea33552a70  
-- 🔒 **Cibersegurança** – Chave: bad879ec5f005ca7e5b5c99cc26e41a4  
-- ⚙️ **DevOps e Cultura Ágil** – Chave: b6c5e02ee25ca739e8b68892fa2a983c  
-- 🤖 **Inteligência Artificial e Computacional** – Chave: 4b7c25ec6ca2133ddcf855b9ce881631  
-- ☕ **Java Fundamentos** – Chave: 060f3477aa1fdb6b3e27ae79220dde40  
-- 🐧 **Linux Fundamentos** – Chave: 61b8ffbe2641192cbf3bd56e31632780  
-- 🐍 **Python Fundamentos** – Chave: f5e3b47b111 (incompleta, assumida como válida)  
+- 🌐 **Big Data e Análise** – FIAP 
+- ⛓️ **Blockchain Avançado** – FIAP  
+- 📈 **Inteligência de Negócios (BI)** – FIAP   
+- ☁️ **Arquiteto de Fundamentos, Administração e Soluções de Cloud** – FIAP 
+- 🔒 **Cibersegurança** – FIAP   
+- ⚙️ **DevOps e Cultura Ágil** – FIAP  
+- 🤖 **Inteligência Artificial e Computacional** – FIAP 
+- ☕ **Java Fundamentos** – FIAP  
+- 🐧 **Linux Fundamentos** – FIAP 
+- 🐍 **Python Fundamentos** – FIAP 
 
 ### Outros Cursos e Certificações
 - 🐍 **Python** – FIAP  
