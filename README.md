@@ -105,7 +105,6 @@ Estou sempre em busca de **novos desafios** e conhecimentos para crescer na áre
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ejs/ejs-original.svg" height="40" alt="ejs logo"/>
 </div>
 
 ---
