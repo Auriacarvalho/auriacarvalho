@@ -26,7 +26,7 @@ Sou **proativa**, com foco em resultados, habilidades em resolução de problema
 
 ## Experiências em Destaque
 - **Prefeitura de Diadema (2023-2024):** Automatizei consultas em bancos de dados (Dataprev, Gesuas), aumentando a eficiência do atendimento em 20%.  
-- **Casa da Música (2023):** Desenvolvi um sistema web de controle de alunos com CRUD, integrado a MySQL, melhorando a gestão em 30%.  
+- **Casa da Música (2024-2025):** Desenvolvi um sistema web de controle de alunos com CRUD, integrado a MySQL, melhorando a gestão em 30%.  
 
 ---
 
