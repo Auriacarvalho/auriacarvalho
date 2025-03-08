@@ -31,16 +31,39 @@ Sou **proativa**, com foco em resultados, habilidades em resolução de problema
 ---
 
 ## Certificações e Cursos
-- 🌐 **Big Data e Análise**  
-- 🔒 **Cibersegurança**  
-- ☁️ **Arquiteto de Fundamentos, Administração e Soluções de Cloud**  
-- 🤖 **Inteligência Artificial e Computacional**  
-- 🐍 **Python Fundamentos**  
-- 📊 **Power BI** (Santander Open Academy)  
-- 💻 **Desenvolvimento Web (HTML, CSS, JavaScript)** (Fundação Bradesco)  
-- ⚙️ **DevOps e Cultura Ágil**  
-- 📚 **Banco de Dados: Fundamentos**, **Estrutura de Dados**, **Projetos de Sistemas Web** (IFSP)  
-- *+ diversas certificações em TI (Java, Linux, PHP, BI, etc.)*  
+
+### Certificações com Chaves de Diploma
+- 🌐 **Big Data e Análise** – Chave: 4931993a6c6359dad37a5fc945ce6883  
+- ⛓️ **Blockchain Avançado** – Chave: c3c60d6a82776a116706d1c94026269f  
+- 📈 **Inteligência de Negócios (BI)** – Chave: ee218ea08060924d7dc3e07971caefe1  
+- ☁️ **Arquiteto de Fundamentos, Administração e Soluções de Cloud** – Chave: ba663624482b70b8f20a50ea33552a70  
+- 🔒 **Cibersegurança** – Chave: bad879ec5f005ca7e5b5c99cc26e41a4  
+- ⚙️ **DevOps e Cultura Ágil** – Chave: b6c5e02ee25ca739e8b68892fa2a983c  
+- 🤖 **Inteligência Artificial e Computacional** – Chave: 4b7c25ec6ca2133ddcf855b9ce881631  
+- ☕ **Java Fundamentos** – Chave: 060f3477aa1fdb6b3e27ae79220dde40  
+- 🐧 **Linux Fundamentos** – Chave: 61b8ffbe2641192cbf3bd56e31632780  
+- 🐍 **Python Fundamentos** – Chave: f5e3b47b111 (incompleta, assumida como válida)  
+
+### Outros Cursos e Certificações
+- 🐍 **Python** – FIAP  
+- 🇬🇧 **Curso de Inglês 1** – Instituto Federal do Rio Grande do Sul (IFRS)  
+- 📊 **Banco de Dados: Fundamentos** – Instituto Federal de São Paulo (IFSP)  
+- 🗂️ **Estrutura de Dados** – Instituto Federal de São Paulo (IFSP)  
+- 🌐 **Projetos de Sistemas Web** – Instituto Federal de São Paulo (IFSP)  
+- 🖌️ **Criação de Sites com HTML, CSS e JavaScript** – Fundação Getulio Vargas (FGV)  
+- 🗄️ **Administração de Bancos de Dados** – Fundação Bradesco  
+- 🖥️ **Fundamentos de TI: Hardware e Software** – Fundação Bradesco  
+- 🧠 **Lógica de Programação** – Trybe  
+- 📌 **Git e GitHub** – Soul Code  
+- 🌐 **Desenvolvimento Web (HTML, CSS, JavaScript)** – Fundação Bradesco  
+- 📚 **Introdução à Ciência de Dados** – Santander Open Academy  
+- 📊 **Power BI** – Santander Open Academy  
+- 📈 **Big Data Analytics** – FIAP  
+- 🐍 **Desenvolvimento Orientado a Objetos com Python** – Fundação Bradesco  
+- 🌟 **JavaScript para Iniciantes** – Edune Cursos  
+- 🗃️ **PHP e MySQL (Iniciante)** – Edune Cursos  
+- 📈 **Business Intelligence (BI)** – FIAP  
+- 🔒 **Cybersecurity** – FIAP  
 
 ---
 
@@ -84,3 +107,4 @@ Estou sempre em busca de **novos desafios** e conhecimentos para crescer na áre
 </div>
 
 ---
+
