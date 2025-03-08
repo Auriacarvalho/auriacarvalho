@@ -42,7 +42,7 @@ Sou **proativa**, com foco em resultados, habilidades em resolução de problema
 - 🤖 **Inteligência Artificial e Computacional** – FIAP 
 - ☕ **Java Fundamentos** – FIAP  
 - 🐧 **Linux Fundamentos** – FIAP 
-- 🐍 **Python Fundamentos** – FIAP 
+- 🐍 **Python Fundamentos** – FUNDAÇÃO BRADESCO
 
 ### Outros Cursos e Certificações
 - 🐍 **Python** – FIAP  
