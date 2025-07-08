@@ -1,111 +1,91 @@
 # Olá, eu sou Auria Carvalho! 👋
 
-Sou de **Diadema, Grande São Paulo**, e estou no 6º semestre do **Bacharelado em Tecnologia da Informação com ênfase em Análise de Dados** pela Univesp. Apaixonada por tecnologia, tenho experiência em suporte técnico, desenvolvimento de sistemas web e análise de dados. Busco oportunidades desafiadoras para aplicar minhas habilidades em **Ciência de Dados** e **Desenvolvimento de Software**.
+Sou de Diadema, Grande São Paulo, e estou no 6º semestre do **Bacharelado em Tecnologia da Informação com ênfase em Análise de Dados** pela Univesp. Apaixonada por tecnologia, tenho experiência em suporte técnico, desenvolvimento de sistemas web e análise de dados.
+
+Busco oportunidades desafiadoras para aplicar minhas habilidades em **Ciência de Dados** e **Desenvolvimento de Software**.
 
 ---
 
-## Sobre Mim
-- 📍 **Localização:** Diadema, São Paulo  
-- 🎓 **Formação:** Bacharelado em TI – Análise de Dados (Univesp, 2022 – em andamento)  
-- 💼 **Experiência:** Estagiária em Ciências de Dados (Prefeitura de Diadema), Desenvolvedora Web (Projetos Acadêmicos)  
-- 📞 **Contato:** (11) 96934-6006 | ✉️ [auria.carvalho@mail.com](mailto:auria.carvalho@mail.com)  
-- 🔗 **LinkedIn:** [linkedin.com/in/auria-carvalho-manoel](https://linkedin.com/in/auria-carvalho-manoel)  
+## 📌 Sobre Mim
+
+- 📍 **Localização**: Diadema, São Paulo – Brasil  
+- 🎓 **Formação**: TI – Análise de Dados (Univesp, 2022 – em andamento)  
+- 💼 **Experiência**: Estagiária em Ciência de Dados (Prefeitura de Diadema), Desenvolvedora Web (Projeto Casa da Música)  
+- 📞 **Contato**: (11) 96934-6006  
+- ✉️ **Email**: auria.carvalho@mail.com  
+- 🔗 **LinkedIn**: [linkedin.com/in/auria-carvalho-manoel](https://linkedin.com/in/auria-carvalho-manoel)
 
 ---
 
-## Habilidades Técnicas
-- **Banco de Dados:** SQL, MySQL  
-- **Linguagens de Programação:** Python, JavaScript, PHP, Java  
-- **Desenvolvimento Web:** HTML, CSS, Node.js, Express, APIs RESTful  
-- **Visualização de Dados:** Excel, Power BI  
-- **Outras Competências:** Big Data, Blockchain, Cloud Computing, DevOps, Cibersegurança, Git  
+## 💻 Habilidades Técnicas
 
-Sou **proativa**, com foco em resultados, habilidades em resolução de problemas e trabalho em equipe.
-
----
-
-## Experiências em Destaque
-- **Prefeitura de Diadema (2023-2024):** Automatizei consultas em bancos de dados (Dataprev, Gesuas), aumentando a eficiência do atendimento em 20%.  
-- **Casa da Música (2024-2025):** Desenvolvi um sistema web de controle de alunos com CRUD, integrado a MySQL, melhorando a gestão em 30%.  
+- **Banco de Dados**: SQL, MySQL  
+- **Linguagens de Programação**: Python 🐍, JavaScript 🌐, PHP 🗃️, Java ☕  
+- **Desenvolvimento Web**: HTML5, CSS3, Node.js, Express, APIs RESTful  
+- **Visualização de Dados**: Excel, Power BI 📊  
+- **Outros**: Git, Linux, Cloud, DevOps, Cibersegurança 🔒
 
 ---
 
-## Certificações e Cursos
+## 📜 Certificações e Cursos
 
-### Certificações com Chaves de Diploma
-- 🌐 **Big Data e Análise** – FIAP 
-- ⛓️ **Blockchain Avançado** – FIAP  
-- 📈 **Inteligência de Negócios (BI)** – FIAP   
-- ☁️ **Arquiteto de Fundamentos, Administração e Soluções de Cloud** – FIAP 
-- 🔒 **Cibersegurança** – FIAP   
-- ⚙️ **DevOps e Cultura Ágil** – FIAP  
-- 🤖 **Inteligência Artificial e Computacional** – FIAP 
-- ☕ **Java Fundamentos** – FIAP  
-- 🐧 **Linux Fundamentos** – FIAP 
-- 🐍 **Python Fundamentos** – FUNDAÇÃO BRADESCO
+### 🎓 Certificações com Diploma
 
-### Outros Cursos e Certificações
-- 🐍 **Python** – FIAP  
-- 🇬🇧 **Curso de Inglês 1** – Instituto Federal do Rio Grande do Sul (IFRS)  
-- 📊 **Banco de Dados: Fundamentos** – Instituto Federal de São Paulo (IFSP)  
-- 🗂️ **Estrutura de Dados** – Instituto Federal de São Paulo (IFSP)  
-- 🌐 **Projetos de Sistemas Web** – Instituto Federal de São Paulo (IFSP)  
-- 🖌️ **Criação de Sites com HTML, CSS e JavaScript** – Fundação Getulio Vargas (FGV)  
-- 🗄️ **Administração de Bancos de Dados** – Fundação Bradesco  
-- 🖥️ **Fundamentos de TI: Hardware e Software** – Fundação Bradesco  
-- 🧠 **Lógica de Programação** – Trybe  
-- 📌 **Git e GitHub** – Soul Code  
-- 🌐 **Desenvolvimento Web (HTML, CSS, JavaScript)** – Fundação Bradesco  
-- 📚 **Introdução à Ciência de Dados** – Santander Open Academy  
-- 📊 **Power BI** – Santander Open Academy  
-- 📈 **Big Data Analytics** – FIAP  
-- 🐍 **Desenvolvimento Orientado a Objetos com Python** – Fundação Bradesco  
-- 🌟 **JavaScript para Iniciantes** – Edune Cursos  
-- 🗃️ **PHP e MySQL (Iniciante)** – Edune Cursos  
-- 📈 **Business Intelligence (BI)** – FIAP  
-- 🔒 **Cybersecurity** – FIAP  
+- Big Data e Análise – FIAP  
+- Blockchain Avançado – FIAP  
+- Inteligência de Negócios (BI) – FIAP  
+- Cloud Computing – FIAP  
+- DevOps e Cultura Ágil – FIAP  
+- Cibersegurança – FIAP  
+- Java Fundamentos – FIAP  
+- Linux Fundamentos – FIAP  
+- Python Fundamentos – Fundação Bradesco  
+
+### 📘 Outros Cursos
+
+- Estrutura de Dados – IFSP  
+- Projetos de Sistemas Web – IFSP  
+- Desenvolvimento Web (HTML, CSS, JavaScript) – Fundação Bradesco  
+- Git e GitHub – Soul Code  
+- Introdução à Ciência de Dados – Santander Open Academy  
+- Power BI – Santander  
+- Lógica de Programação – Trybe  
+- PHP e MySQL (iniciante) – Edune  
+- JavaScript para Iniciantes – Edune  
+- Curso de Inglês 1 – IFRS  
 
 ---
 
-## O que me Motiva
-Estou sempre em busca de **novos desafios** e conhecimentos para crescer na área de tecnologia. Meu objetivo é contribuir para projetos inovadores com soluções estratégicas e eficientes.
+## 🚀 O que me Motiva
+
+Estou sempre em busca de **novos desafios** e **conhecimentos** para crescer na área de tecnologia.  
+Meu objetivo é contribuir com **soluções eficientes e inovadoras** nos projetos em que atuar.
 
 ---
 
-## Conecte-se Comigo!
-<div align="left">
-  <a href="https://linkedin.com/in/auria-carvalho-manoel">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
-  </a>
-  <a href="https://wa.me/5511969346006">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"/>
-  </a>
-</div>
+## 🤝 Conecte-se Comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/auria-carvalho-manoel)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&style=for-the-badge)](https://wa.me/5511969346006)
 
 ---
-## Tecnologias que Uso
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
-  <img width="12"/>
-</div>
+
+## 🛠️ Tecnologias que Uso
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
+
+---
+
+> _“Transformar dados em decisões: esse é meu propósito.”_
 
 ---
 
