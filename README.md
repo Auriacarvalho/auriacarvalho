@@ -12,7 +12,7 @@ Busco oportunidades desafiadoras para aplicar minhas habilidades em **Ciência d
 - 🎓 **Formação**: TI – Análise de Dados (Univesp, 2022 – em andamento)  
 - 💼 **Experiência**: Estagiária em Ciência de Dados (Prefeitura de Diadema), Desenvolvedora Web (Projeto Casa da Música)  
 - 📞 **Contato**: (11) 96934-6006  
-- ✉️ **Email**: auria.carvalho@mail.com  
+- ✉️ **Email**: auria.carvalho.ac@mail.com  
 - 🔗 **LinkedIn**: [linkedin.com/in/auria-carvalho-manoel](https://linkedin.com/in/auria-carvalho-manoel)
 
 ---
