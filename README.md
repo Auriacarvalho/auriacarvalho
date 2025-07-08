@@ -90,10 +90,6 @@ Meu objetivo é contribuir com **soluções eficientes e inovadoras** nos projet
 ---
 
 ## Um Toque de Humor
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/VI2UC13hwWinuLnQvK/giphy.gif" alt="Baby Yoda dançando para alegrar o dia"/>
-</div>
-
----
+🤖 "Se der erro, é feature não documentada."
 ---
 
