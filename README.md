@@ -1,6 +1,6 @@
 # Olá, eu sou Auria Carvalho! 👋
 
-Sou de Diadema, Grande São Paulo, e estou no 6º semestre do **Bacharelado em Tecnologia da Informação com ênfase em Análise de Dados** pela Univesp. Apaixonada por tecnologia, tenho experiência em suporte técnico, desenvolvimento de sistemas web e análise de dados.
+Sou de Diadema, Grande São Paulo, sou formada em **Bacharelado em Tecnologia da Informação com ênfase em Análise de Dados** pela Univesp. Apaixonada por tecnologia, tenho experiência em suporte técnico, desenvolvimento de sistemas web e análise de dados.
 
 Busco oportunidades desafiadoras para aplicar minhas habilidades em **Ciência de Dados** e **Desenvolvimento de Software**.
 
