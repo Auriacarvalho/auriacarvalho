@@ -9,11 +9,12 @@ Sou apaixonada por tecnologia e por transformar dados em decisões estratégicas
 
 💼 Experiência:
 
+Professora Autônoma de Excel e Power BI
+
 Estagiária em Ciência de Dados – Prefeitura de Diadema
 
 Desenvolvedora Web – Projeto Casa da Música
 
-Professora Autônoma de Excel e Power BI
 
 ✉️ Email: auria.carvalho.ac@mail.com
 
