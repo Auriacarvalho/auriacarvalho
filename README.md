@@ -28,6 +28,7 @@ Banco de Dados: SQL, MySQL
 Web: HTML5, CSS3, Node.js, Express, APIs RESTful
 
 Dados & BI: Power BI 📊, Excel
+Certificado - Excelera Excel
 
 Outros: Git, Linux, Cloud, DevOps, Cibersegurança 🔒
 
