@@ -1,97 +1,112 @@
 👩‍💻 Auria Carvalho
 
-🎓 Bacharel em Tecnologia da Informação – Ênfase em Análise de Dados
-📍 Diadema – São Paulo, Brasil
+🎓 Bacharel em Tecnologia da Informação – Ênfase em Análise de Dados (UNIVESP)
 📚 Bacharelado em Ciência de Dados (em andamento)
+📍 Diadema – São Paulo, Brasil
 
-Sou apaixonada por tecnologia e por transformar dados em decisões estratégicas. Tenho experiência em análise de dados, suporte técnico, desenvolvimento web e ensino de ferramentas de produtividade, sempre buscando aplicar tecnologia para resolver problemas reais.
+💡 Apaixonada por dados, tecnologia e soluções inteligentes.
+Meu foco é transformar dados em insights estratégicos através de Análise de Dados, Business Intelligence e Desenvolvimento.
 
 🚀 Sobre Mim
 
-📊 Interesse em Ciência de Dados, BI e Análise de Dados
+📊 Foco em Data Analytics, BI e Ciência de Dados
 
-💻 Experiência em desenvolvimento web e análise de dados
+💻 Experiência em Python, SQL, Power BI e desenvolvimento web
 
-🎓 Formação em Tecnologia da Informação (UNIVESP)
+👩‍🏫 Professora de Excel e Power BI
 
-📚 Estudando Ciência de Dados
+📈 Interesse em visualização de dados e dashboards
 
-👩‍🏫 Professora autônoma de Excel e Power BI
+🌱 Aprendendo continuamente novas tecnologias
 
-💼 Experiência
-👩‍🏫 Professora Autônoma – Excel e Power BI
+📊 Estatísticas do GitHub
 
-Ensino de análise de dados e criação de dashboards
+🧠 Tecnologias e Ferramentas
+💻 Linguagens
 
-Automação de planilhas e análise de indicadores
 
-Capacitação de profissionais em ferramentas de produtividade
 
-📊 Estagiária em Ciência de Dados – Prefeitura de Diadema
 
-Organização e análise de bases de dados
 
-Desenvolvimento de relatórios e dashboards
 
-Apoio à tomada de decisão baseada em dados
 
-🌐 Desenvolvedora Web – Projeto Casa da Música
 
-Desenvolvimento de aplicações web
+📊 Data Analytics
 
-Implementação de funcionalidades e melhorias no sistema
 
-🧠 Habilidades Técnicas
-👨‍💻 Linguagens de Programação
 
-Python
 
-JavaScript
 
-Java
-
-PHP
-
-🗄️ Banco de Dados
-
-SQL
-
-MySQL
 
 🌐 Desenvolvimento Web
 
-HTML5
 
-CSS3
 
-Node.js
 
-Express
 
-APIs REST
 
-📊 Dados e Business Intelligence
+⚙️ Ferramentas
 
-Power BI
 
-Excel Avançado
 
-Análise de Dados
 
-⚙️ Outras Tecnologias
 
-Git e GitHub
 
-Linux
+📂 Portfólio de Projetos de Dados
+📊 Análise de Vendas
 
-Cloud Computing
+Projeto de análise de vendas utilizando Excel, Power BI e SQL.
 
-DevOps
+Principais análises:
 
-Fundamentos de Cibersegurança
+Faturamento total
 
-📜 Certificações
-FIAP
+Produtos mais vendidos
+
+Ticket médio
+
+Volume de pedidos
+
+Dashboard interativo
+
+🔗 Projeto:
+https://github.com/Auriacarvalho
+
+📈 Dashboard Financeiro
+
+Dashboard desenvolvido em Power BI para análise financeira.
+
+Indicadores:
+
+Receita
+
+Despesas
+
+Lucro
+
+Evolução mensal
+
+📉 Análise de Dados com Python
+
+Projeto de análise de dados utilizando:
+
+Python
+
+Pandas
+
+Matplotlib
+
+Principais análises:
+
+limpeza de dados
+
+exploração de dados
+
+visualização de dados
+
+🎓 Certificações
+
+📜 FIAP
 
 Big Data e Análise de Dados
 
@@ -109,37 +124,26 @@ Java Fundamentos
 
 Linux Fundamentos
 
-Outras Instituições
+📜 Outras
 
-Python Fundamentos – Fundação Bradesco
+Python – Fundação Bradesco
 
-Estrutura de Dados – IFSP
+Git e GitHub – Soul Code
 
-Projetos de Sistemas Web – IFSP
-
-Git e GitHub – SoulCode
-
-Introdução à Ciência de Dados – Santander Open Academy
+Ciência de Dados – Santander Open Academy
 
 Power BI – Santander
 
-Lógica de Programação – Trybe
+Estrutura de Dados – IFSP
 
-PHP e MySQL – Edune
-
-JavaScript para Iniciantes – Edune
-
-Inglês – IFRS
-
-🛠 Tecnologias que Utilizo
-Python | JavaScript | Java | PHP | HTML | CSS | MySQL | Node.js | Linux | Git | Power BI | Excel
 🎯 Objetivo Profissional
 
-Atuar na área de Ciência de Dados, Análise de Dados ou Business Intelligence, utilizando tecnologia para transformar dados em insights estratégicos e apoiar decisões inteligentes.
+Atuar na área de Ciência de Dados, Data Analytics ou Business Intelligence, contribuindo com soluções baseadas em dados para apoiar decisões estratégicas.
 
 📫 Contato
 
-📧 Email: auria.carvalho.ac@mail.com
+📧 Email
+auria.carvalho.ac@mail.com
 
 💼 LinkedIn
 https://linkedin.com/in/auria-carvalho-manoel
