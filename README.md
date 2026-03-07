@@ -1,65 +1,123 @@
-👋 Olá, eu sou Auria Carvalho
-🎓 Bacharel em Tecnologia da Informação – Ênfase em Análise de Dados (Univesp, concluído em agosto/2025)  
+👩‍💻 Auria Carvalho
+
+🎓 Bacharel em Tecnologia da Informação – Ênfase em Análise de Dados
+📍 Diadema – São Paulo, Brasil
 📚 Bacharelado em Ciência de Dados (em andamento)
 
-Sou apaixonada por tecnologia e por transformar dados em decisões estratégicas. Tenho experiência em suporte técnico, desenvolvimento de sistemas web, análise de dados e ensino de ferramentas de produtividade.
+Sou apaixonada por tecnologia e por transformar dados em decisões estratégicas. Tenho experiência em análise de dados, suporte técnico, desenvolvimento web e ensino de ferramentas de produtividade, sempre buscando aplicar tecnologia para resolver problemas reais.
 
-📌 Sobre Mim
-📍 Localização: Diadema, São Paulo – Brasil
+🚀 Sobre Mim
 
-💼 Experiência:
+📊 Interesse em Ciência de Dados, BI e Análise de Dados
 
-Professora Autônoma de Excel e Power BI
+💻 Experiência em desenvolvimento web e análise de dados
 
-Estagiária em Ciência de Dados – Prefeitura de Diadema
+🎓 Formação em Tecnologia da Informação (UNIVESP)
 
-Desenvolvedora Web – Projeto Casa da Música
+📚 Estudando Ciência de Dados
 
+👩‍🏫 Professora autônoma de Excel e Power BI
 
-✉️ Email: auria.carvalho.ac@mail.com
+💼 Experiência
+👩‍🏫 Professora Autônoma – Excel e Power BI
 
-🔗 LinkedIn: linkedin.com/in/auria-carvalho-manoel
+Ensino de análise de dados e criação de dashboards
 
-💻 Habilidades Técnicas
-Programação: Python 🐍, JavaScript 🌐, PHP 🗃️, Java ☕
+Automação de planilhas e análise de indicadores
 
-Banco de Dados: SQL, MySQL
+Capacitação de profissionais em ferramentas de produtividade
 
-Web: HTML5, CSS3, Node.js, Express, APIs RESTful
+📊 Estagiária em Ciência de Dados – Prefeitura de Diadema
 
-Dados & BI: Power BI 📊, Excel
-Certificado - Excelera Excel
+Organização e análise de bases de dados
 
-Outros: Git, Linux, Cloud, DevOps, Cibersegurança 🔒
+Desenvolvimento de relatórios e dashboards
 
-📜 Certificações e Cursos
-Certificações com Diploma
+Apoio à tomada de decisão baseada em dados
 
-Big Data e Análise – FIAP
+🌐 Desenvolvedora Web – Projeto Casa da Música
 
-Blockchain Avançado – FIAP
+Desenvolvimento de aplicações web
 
-Inteligência de Negócios (BI) – FIAP
+Implementação de funcionalidades e melhorias no sistema
 
-Cloud Computing – FIAP
+🧠 Habilidades Técnicas
+👨‍💻 Linguagens de Programação
 
-DevOps e Cultura Ágil – FIAP
+Python
 
-Cibersegurança – FIAP
+JavaScript
 
-Java Fundamentos – FIAP
+Java
 
-Linux Fundamentos – FIAP
+PHP
+
+🗄️ Banco de Dados
+
+SQL
+
+MySQL
+
+🌐 Desenvolvimento Web
+
+HTML5
+
+CSS3
+
+Node.js
+
+Express
+
+APIs REST
+
+📊 Dados e Business Intelligence
+
+Power BI
+
+Excel Avançado
+
+Análise de Dados
+
+⚙️ Outras Tecnologias
+
+Git e GitHub
+
+Linux
+
+Cloud Computing
+
+DevOps
+
+Fundamentos de Cibersegurança
+
+📜 Certificações
+FIAP
+
+Big Data e Análise de Dados
+
+Blockchain Avançado
+
+Business Intelligence
+
+Cloud Computing
+
+DevOps e Cultura Ágil
+
+Cibersegurança
+
+Java Fundamentos
+
+Linux Fundamentos
+
+Outras Instituições
 
 Python Fundamentos – Fundação Bradesco
-
-Cursos Complementares
 
 Estrutura de Dados – IFSP
 
 Projetos de Sistemas Web – IFSP
 
-Git e GitHub – Soul Code
+Git e GitHub – SoulCode
 
 Introdução à Ciência de Dados – Santander Open Academy
 
@@ -71,17 +129,25 @@ PHP e MySQL – Edune
 
 JavaScript para Iniciantes – Edune
 
-Curso de Inglês – IFRS
+Inglês – IFRS
 
-🚀 O que me Motiva
-Estou sempre em busca de novos desafios e conhecimentos para crescer na área de tecnologia.
-Meu objetivo é contribuir com soluções eficientes e inovadoras nos projetos em que atuar e compartilhar conhecimento através do ensino.
+🛠 Tecnologias que Utilizo
+Python | JavaScript | Java | PHP | HTML | CSS | MySQL | Node.js | Linux | Git | Power BI | Excel
+🎯 Objetivo Profissional
 
-🛠️ Tecnologias que Uso
-Python | JavaScript | Java | PHP | HTML5 | CSS3 | MySQL | Node.js | Linux | Git | Power BI | Excel
+Atuar na área de Ciência de Dados, Análise de Dados ou Business Intelligence, utilizando tecnologia para transformar dados em insights estratégicos e apoiar decisões inteligentes.
+
+📫 Contato
+
+📧 Email: auria.carvalho.ac@mail.com
+
+💼 LinkedIn
+https://linkedin.com/in/auria-carvalho-manoel
 
 ✨ Propósito
-“Transformar dados em decisões: esse é meu propósito.”
 
-😄 Um Toque de Humor
-🤖 "Se der erro, é feature não documentada."
+Transformar dados em decisões inteligentes.
+
+😄 Curiosidade
+
+"Se der erro, provavelmente é uma feature não documentada."
