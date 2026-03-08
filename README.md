@@ -4,28 +4,18 @@
 📚 Bacharelado em Ciência de Dados (em andamento)
 📍 Diadema – São Paulo, Brasil
 
-💡 Apaixonada por dados, tecnologia e soluções inteligentes.
-Meu foco é transformar dados em insights estratégicos através de Análise de Dados, Business Intelligence e Desenvolvimento.
+💡 Profissional focada em Data Analytics, Business Intelligence e Ciência de Dados, apaixonada por transformar dados em insights estratégicos e decisões inteligentes.
 
 🚀 Sobre Mim
 
-📊 Foco em Data Analytics, BI e Ciência de Dados
-
-💻 Experiência em Python, SQL, Power BI e desenvolvimento web
-
+📊 Foco em Análise de Dados e Business Intelligence
+💻 Experiência com Python, SQL, Power BI e Excel
 👩‍🏫 Professora de Excel e Power BI
-
-📈 Interesse em visualização de dados e dashboards
-
-🌱 Aprendendo continuamente novas tecnologias
-
-📊 Estatísticas do GitHub
+📈 Criação de dashboards e visualização de dados
+🌱 Aprendendo continuamente novas tecnologias de dados
 
 🧠 Tecnologias e Ferramentas
 💻 Linguagens
-
-
-
 
 
 
@@ -43,102 +33,102 @@ Meu foco é transformar dados em insights estratégicos através de Análise de 
 
 
 
-
-
 ⚙️ Ferramentas
 
 
 
 
 
+📊 Estatísticas do GitHub
 
-📂 Portfólio de Projetos de Dados
-📊 Análise de Vendas
 
-Projeto de análise de vendas utilizando Excel, Power BI e SQL.
 
-Principais análises:
 
-Faturamento total
 
-Produtos mais vendidos
 
-Ticket médio
 
-Volume de pedidos
+📂 Portfólio de Projetos
+📊 1. Análise de Vendas
 
-Dashboard interativo
+Projeto de análise de vendas utilizando Excel, SQL e Power BI.
 
-🔗 Projeto:
-https://github.com/Auriacarvalho
+Principais análises
 
-📈 Dashboard Financeiro
+✔ Faturamento total
+✔ Ticket médio
+✔ Produtos mais vendidos
+✔ Volume de pedidos
+✔ Dashboard interativo
+
+🔗 Repositório:
+https://github.com/Auriacarvalho/analise-vendas
+
+📷 Dashboard
+
+
+
+
+📈 2. Dashboard Financeiro
 
 Dashboard desenvolvido em Power BI para análise financeira.
 
-Indicadores:
+Indicadores analisados
 
-Receita
+✔ Receita
+✔ Despesas
+✔ Lucro
+✔ Evolução mensal
 
-Despesas
+🔗 Repositório:
+https://github.com/Auriacarvalho/dashboard-financeiro
 
-Lucro
+📷 Dashboard
 
-Evolução mensal
 
-📉 Análise de Dados com Python
 
-Projeto de análise de dados utilizando:
 
-Python
+📉 3. Análise de Dados com Python
 
-Pandas
+Projeto de análise de dados utilizando Python, Pandas e Matplotlib.
 
-Matplotlib
+Análises realizadas
 
-Principais análises:
+✔ Limpeza de dados
+✔ Exploração de dados
+✔ Visualização de dados
+✔ Insights analíticos
 
-limpeza de dados
+🔗 Repositório:
+https://github.com/Auriacarvalho/analise-dados-python
 
-exploração de dados
+📷 Visualização
 
-visualização de dados
+
+
 
 🎓 Certificações
-
 📜 FIAP
 
-Big Data e Análise de Dados
+• Big Data e Análise de Dados
+• Blockchain Avançado
+• Business Intelligence
+• Cloud Computing
+• DevOps e Cultura Ágil
+• Cibersegurança
+• Java Fundamentos
+• Linux Fundamentos
 
-Blockchain Avançado
+📜 Outras Certificações
 
-Business Intelligence
-
-Cloud Computing
-
-DevOps e Cultura Ágil
-
-Cibersegurança
-
-Java Fundamentos
-
-Linux Fundamentos
-
-📜 Outras
-
-Python – Fundação Bradesco
-
-Git e GitHub – Soul Code
-
-Ciência de Dados – Santander Open Academy
-
-Power BI – Santander
-
-Estrutura de Dados – IFSP
+• Python – Fundação Bradesco
+• Git e GitHub – Soul Code
+• Ciência de Dados – Santander Open Academy
+• Power BI – Santander
+• Estrutura de Dados – IFSP
 
 🎯 Objetivo Profissional
 
-Atuar na área de Ciência de Dados, Data Analytics ou Business Intelligence, contribuindo com soluções baseadas em dados para apoiar decisões estratégicas.
+Atuar na área de Ciência de Dados, Data Analytics ou Business Intelligence, utilizando dados para gerar insights estratégicos e apoiar decisões de negócio.
 
 📫 Contato
 
@@ -152,6 +142,6 @@ https://linkedin.com/in/auria-carvalho-manoel
 
 Transformar dados em decisões inteligentes.
 
-😄 Curiosidade
+💡 Curiosidade
 
-"Se der erro, provavelmente é uma feature não documentada."
+"Gosto de resolver problemas complexos usando dados e transformar informação em soluções práticas."
