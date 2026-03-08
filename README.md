@@ -61,7 +61,7 @@ Principais análises
 ✔ Dashboard interativo
 
 🔗 Repositório:
-https://github.com/Auriacarvalho/analise-vendas
+github.com/Auriacarvalho/analise-vendas
 
 📷 Dashboard
 
