@@ -1,5 +1,7 @@
 👩‍💻 Auria Carvalho
 
+📊 Data Analyst | Python | SQL | Power BI | Business Intelligence
+
 🎓 Bacharel em Tecnologia da Informação – Ênfase em Análise de Dados (UNIVESP)
 📚 Bacharelado em Ciência de Dados (em andamento)
 📍 Diadema – São Paulo, Brasil
@@ -14,8 +16,10 @@
 📈 Criação de dashboards e visualização de dados
 🌱 Aprendendo continuamente novas tecnologias de dados
 
-🧠 Tecnologias e Ferramentas
+🧠 Tecnologias
 💻 Linguagens
+
+
 
 
 
@@ -28,12 +32,16 @@
 
 
 
-🌐 Desenvolvimento Web
+
+
+
 
 
 
 
 ⚙️ Ferramentas
+
+
 
 
 
@@ -47,10 +55,13 @@
 
 
 
-📂 Portfólio de Projetos
-📊 1. Análise de Vendas
+📂 Portfólio de Projetos de Dados
 
-Projeto de análise de vendas utilizando Excel, SQL e Power BI.
+Projetos desenvolvidos com foco em Análise de Dados, Business Intelligence e Visualização de Dados.
+
+📊 Análise de Vendas
+
+Projeto de análise de vendas utilizando Excel, SQL e Power BI para identificar padrões de faturamento e desempenho de produtos.
 
 Principais análises
 
@@ -60,17 +71,17 @@ Principais análises
 ✔ Volume de pedidos
 ✔ Dashboard interativo
 
-🔗 Repositório:
-github.com/Auriacarvalho/analise-vendas
+🔗 Repositório
+https://github.com/Auriacarvalho/analise-vendas
 
 📷 Dashboard
 
 
 
 
-📈 2. Dashboard Financeiro
+📈 Dashboard Financeiro
 
-Dashboard desenvolvido em Power BI para análise financeira.
+Dashboard desenvolvido em Power BI para análise financeira e acompanhamento de indicadores de desempenho.
 
 Indicadores analisados
 
@@ -79,7 +90,7 @@ Indicadores analisados
 ✔ Lucro
 ✔ Evolução mensal
 
-🔗 Repositório:
+🔗 Repositório
 https://github.com/Auriacarvalho/dashboard-financeiro
 
 📷 Dashboard
@@ -87,7 +98,7 @@ https://github.com/Auriacarvalho/dashboard-financeiro
 
 
 
-📉 3. Análise de Dados com Python
+📉 Análise de Dados com Python
 
 Projeto de análise de dados utilizando Python, Pandas e Matplotlib.
 
@@ -96,9 +107,9 @@ Análises realizadas
 ✔ Limpeza de dados
 ✔ Exploração de dados
 ✔ Visualização de dados
-✔ Insights analíticos
+✔ Geração de insights analíticos
 
-🔗 Repositório:
+🔗 Repositório
 https://github.com/Auriacarvalho/analise-dados-python
 
 📷 Visualização
@@ -145,3 +156,4 @@ Transformar dados em decisões inteligentes.
 💡 Curiosidade
 
 "Gosto de resolver problemas complexos usando dados e transformar informação em soluções práticas."
+
