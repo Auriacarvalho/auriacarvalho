@@ -48,7 +48,7 @@ Módulo visual e de interface (UI/UX) desenvolvido de forma desacoplada utilizan
 
 ## 📫 Vamos nos conectar?
 
-* **LinkedIn:** [Seu Nome Profissional](https://linkedin.com/in/seu-usuario)
+* **LinkedIn:** linkedin.com/in/auria-carvalho-manoel
 * **Meu Portfólio de Certificados:** [Acesse meu Repositório de Conquistas e Cursos](https://github.com/Auriacarvalho/Certificados)
 
 ---
