@@ -4,9 +4,9 @@ Professora de TI | Analista de Business Intelligence & Dados | Data Analytics
 🎓 Bacharel em Tecnologia da Informação — 2025
 🎓 Bacharelado em Ciência de Dados — UNIVESP | Conclusão prevista: 2027
 
-Sou uma profissional apaixonada por tecnologia, dados, educação e inovação. Minha trajetória combina experiência em Tecnologia da Informação, Business Intelligence, Data Analytics, Engenharia de Dados, Desenvolvimento Web e Cloud Computing.
+Sou uma profissional apaixonada por tecnologia, dados, educação e inovação. Minha trajetória combina experiência em Tecnologia da Informação, Business Intelligence, Data Analytics, Engenharia de Dados, Desenvolvimento Web.
 
-Atuo como Professora de TI, com experiência em Excel Avançado, VBA, Power Query, Power BI e lógica de programação. Essa experiência também fortalece minha capacidade de transformar conhecimentos técnicos em soluções práticas e orientadas a resultados.
+Atuo como Professora de Informática Básica ,Avançada e Digital(Celular), com experiência em Excel Avançado, VBA, Power Query, Power BI e lógica de programação. Essa experiência também fortalece minha capacidade de transformar conhecimentos técnicos em soluções práticas e orientadas a resultados.
 
 Meu foco é transformar dados brutos em informações estratégicas, utilizando processos de ETL, análise de dados, modelagem, automação e visualização para apoiar a tomada de decisão.
 
@@ -14,10 +14,9 @@ Meu foco é transformar dados brutos em informações estratégicas, utilizando 
 🎓 Formação Acadêmica
 Bacharelado em Tecnologia da Informação — Concluído em 2025
 Bacharelado em Ciência de Dados — UNIVESP — Em andamento
-Formação complementar em Business Intelligence, Data Analytics, Python, SQL, Cloud Computing e Desenvolvimento Web
-👩‍🏫 Docência
+Formação complementar em Business Intelligence, Data Analytics, Python, SQL e Desenvolvimento Web
 
-Atuação como Professora de TI, trabalhando principalmente com:
+Atuação como Professora de Informática Básica ,Avançada e Digital(Celular), trabalhando principalmente com:
 
 Excel Avançado
 VBA e Macros
@@ -25,7 +24,9 @@ Power Query
 Power BI
 DAX
 Lógica de Programação
-Informática e Tecnologia
+Informática Básica ,Avançada 
+Digital(Celular ) Para Melhor Idade
+
 💼 Experiência Prática
 
 Experiência como Estagiária de Ciência de Dados na Prefeitura de Diadema, atuando em atividades relacionadas a dados, análise, organização de informações e processos tecnológicos.
@@ -34,7 +35,7 @@ Experiência como Estagiária de Ciência de Dados na Prefeitura de Diadema, atu
 
 Atuar nas áreas de:
 
-Data Analytics | Business Intelligence | Data Analyst | Data Engineering | Banco de Dados | Tecnologia
+Data Analytics | Business Intelligence | Data Analyst | Banco de Dados | Tecnologia
 
 Busco unir visão de negócio + dados + automação + tecnologia, desenvolvendo soluções capazes de gerar eficiência e apoiar decisões estratégicas.
 
@@ -51,33 +52,24 @@ DAX — criação de medidas, métricas e cálculos analíticos
 Excel Avançado — funções avançadas, tabelas dinâmicas, análise de dados e automação
 VBA / Macros — automação de processos no Excel
 Power Query — ETL, limpeza, transformação e preparação de dados
-Python + Pandas — tratamento, transformação e análise de dados
 SQL / MySQL — consultas, análise e manipulação de dados
 ETL — extração, transformação e preparação de dados
 Data Visualization — criação de indicadores e dashboards
 Modelagem de Dados — relacionamento entre tabelas e estruturação de modelos analíticos
 Star Schema — modelagem dimensional para Business Intelligence
-🟡 Sei
 
-Tecnologias que consigo utilizar na prática em projetos e soluções.
+🟡 Sei / Tecnologias que consigo utilizar na prática em projetos e soluções.
 
 🐍 Python & Dados
 Python
 Pandas
 NumPy
-Matplotlib
-Seaborn
 Análise exploratória de dados
 Limpeza e transformação de dados
 Automação de processos
 🗄️ Banco de Dados
-SQL
 MySQL
-PostgreSQL
 SQL Server
-JOINs
-Subqueries
-CTEs
 Agregações
 Views
 Consultas analíticas
@@ -88,8 +80,6 @@ JavaScript
 Bootstrap
 Node.js
 Express.js
-EJS
-APIs REST
 JSON
 🔄 Engenharia de Dados
 ETL
@@ -100,16 +90,11 @@ Processamento e transformação de dados
 🧰 Versionamento
 Git
 GitHub
-🟢 Conheço
 
-Tecnologias e conceitos com os quais possuo conhecimento e familiaridade, utilizados principalmente em estudos, projetos acadêmicos e experimentais.
+🟢 Conheço/ Tecnologias e conceitos com os quais possuo conhecimento e familiaridade, utilizados principalmente em estudos, projetos acadêmicos e experimentais.
 
 Machine Learning — conceitos fundamentais e aplicação em projetos de análise de dados
 AWS — conceitos de Cloud Computing e FinOps
-Amazon S3
-Amazon EC2
-Auto Scaling
-AWS Budgets
 Conceitos de governança e otimização de custos em Cloud
 Conceitos de Machine Learning aplicado à análise de dados
 🌐 Desenvolvimento Web
@@ -141,24 +126,19 @@ Vendas
 Margem
 Performance de produtos
 Performance de clientes
-🚢 Logística
-OTIF — On-Time In-Full
-Lead Time
-Custos de Frete
-Performance por modal
-Performance por armador
 📦 Estoque
 Giro de Estoque
 Curva ABC
 Movimentação de produtos
 Indicadores de inventário
 👥 Recursos Humanos
-Turnover
 Perfil de colaboradores
 Retenção
 Indicadores de pessoas
 People Analytics
+
 📊 Projetos em Destaque — Portfólio Executivo
+
 1. 🔄 Inteligência Comercial Integrada
 Análise de Vendas com Excel + Power BI + Python
 
@@ -350,8 +330,7 @@ HTML5 CSS3 JavaScript UI/UX
 🗄️ Banco de Dados	SQL, MySQL, PostgreSQL, SQL Server
 🔄 Data Engineering	Python, ETL, APIs, JSON
 🌐 Web Development	HTML5, CSS3, JavaScript, Node.js, Express.js
-☁️ Cloud & FinOps	AWS, S3, EC2, Auto Scaling, AWS Budgets
-📊 Visualização	Power BI, Matplotlib, Seaborn
+📊 Visualização	Power BI
 🧠 Machine Learning	Fundamentos e aplicações em projetos
 📦 Versionamento	Git, GitHub
 📊 Excel	Excel Avançado, VBA, Power Query
@@ -391,7 +370,17 @@ Capacitação tecnológica
 
 Reúno meus certificados, cursos e formações complementares em um repositório dedicado.
 
-🎓 Acessar meu Portfólio de Certificados
+🎓  Certificados
+⭐ Certificados em Destaque
+Área	Competências
+📊 Business Intelligence	Power BI • DAX • Power Query • Dashboards • KPIs
+🐍 Data Analytics	Python  • NumPy • Análise Exploratória
+🗄️ Banco de Dados	SQL • MySQL  • SQL Server
+🔄 Data Engineering	ETL • APIs REST • JSON • Integração de Dados
+☁️ Cloud Computing	AWS • 
+📈 Excel & Automação	Excel Avançado • VBA • Macros • Power Query
+🧠 Machine Learning	Fundamentos de Machine Learning 
+🌐 Desenvolvimento Web	HTML5 • CSS3 • JavaScript • Node.js • Express.js
 
 📂 Todos os meus projetos
 
