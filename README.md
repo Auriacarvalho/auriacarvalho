@@ -1,56 +1,426 @@
-# 👋 Olá, eu sou a Áuria Tamiris! 
+👋 Olá, sou a Áuria Tamiris!
+Professora de TI | Analista de Business Intelligence & Dados | Data Analytics
 
-### **Professora de TI | Analista de Business Intelligence & Dados | Graduanda em Ciência de Dados e TI (UNIVESP)**
+🎓 Bacharel em Tecnologia da Informação — 2025
+🎓 Bacharelado em Ciência de Dados — UNIVESP | Conclusão prevista: 2027
 
-Sou uma profissional apaixonada por tecnologia, dados e educação. Com sólida experiência como Instrutora de Informática Avançada, utilizo minha base didática, analítica e de engenharia para realizar processos de ETL complexos e transformar dados brutos em soluções integradas e dashboards estratégicos que otimizam processos, reduzem custos (*FinOps*) e apoiam a tomada de decisão executiva.
+Sou uma profissional apaixonada por tecnologia, dados, educação e inovação. Minha trajetória combina experiência em Tecnologia da Informação, Business Intelligence, Data Analytics, Engenharia de Dados, Desenvolvimento Web e Cloud Computing.
 
----
+Atuo como Professora de TI, com experiência em Excel Avançado, VBA, Power Query, Power BI e lógica de programação. Essa experiência também fortalece minha capacidade de transformar conhecimentos técnicos em soluções práticas e orientadas a resultados.
 
-## 🚀 Minha Jornada
+Meu foco é transformar dados brutos em informações estratégicas, utilizando processos de ETL, análise de dados, modelagem, automação e visualização para apoiar a tomada de decisão.
 
-* **🎓 Educação:** Dupla graduação em andamento — Bacharelado em Ciência de Dados e Bacharelado em TI (Ênfase em Análise de Dados) pela UNIVESP.
-* **👩‍🏫 Docência:** Especialista em Advanced Excel (VBA/Power Query), Power BI e lógica de programação.
-* **💼 Experiência Prática:** Ex-estagiária de Ciência de Dados na Secretaria de Gestão e Governo Digital (Prefeitura de Diadema), atuando com análise exploratória e governança de dados públicos.
-* **🎯 Objetivo:** Atuar como Analista de BI e Dados, unindo forte visão de negócio, automação de pipelines de dados e visualização de alta performance.
+🚀 Minha Jornada
+🎓 Formação Acadêmica
+Bacharelado em Tecnologia da Informação — Concluído em 2025
+Bacharelado em Ciência de Dados — UNIVESP — Em andamento
+Formação complementar em Business Intelligence, Data Analytics, Python, SQL, Cloud Computing e Desenvolvimento Web
+👩‍🏫 Docência
 
----
+Atuação como Professora de TI, trabalhando principalmente com:
 
-## 🛠️ Ferramentas & Tecnologias
+Excel Avançado
+VBA e Macros
+Power Query
+Power BI
+DAX
+Lógica de Programação
+Informática e Tecnologia
+💼 Experiência Prática
 
-* **Data Analytics & BI:** Microsoft Power BI (DAX, Power Query, Linguagem M), Excel Avançado (VBA), Métricas de Performance e Operações (OTIF, Lead Time, Giro de Estoque, Curva ABC).
-* **Linguagens & Engenharia de Dados:** Python (Pandas, NumPy, Matplotlib, Seaborn), pipelines de ETL automatizados e manipulação de APIs/JSON.
-* **Bancos de Dados:** SQL (MySQL, PostgreSQL, SQL Server).
-* **Infraestrutura & Nuvem:** Git/GitHub, Cloud Essentials & Práticas de FinOps na AWS (S3, EC2, AWS Budgets).
+Experiência como Estagiária de Ciência de Dados na Prefeitura de Diadema, atuando em atividades relacionadas a dados, análise, organização de informações e processos tecnológicos.
 
----
+🎯 Objetivo Profissional
 
-## 📊 Projetos em Destaque (Portfólio Executivo)
+Atuar nas áreas de:
 
-### 1. 🔄 [Inteligência Comercial Integrada: Análise de Vendas com Excel, Power BI e Python](https://github.com/Auriacarvalho/analise-vendas-python)
-O projeto definitivo do meu ecossistema de dados. Demonstra a unificação das três ferramentas líderes de mercado em um pipeline ponta a ponta: validação e estruturação inicial em Excel; engenharia pesada, limpeza e tratamento de dados (ETL) utilizando Python (Pandas); e modelagem dimensional avançada (Star Schema) com painéis executivos dinâmicos em Power BI.
+Data Analytics | Business Intelligence | Data Analyst | Data Engineering | Banco de Dados | Tecnologia
 
-### 🚢 [logistics-performance-powerbi](https://github.com/Auriacarvalho/logistics-performance-powerbi)
-Dashboard estratégico desenvolvido para o cenário internacional de *Freight Forwarding*. Focado no monitoramento rigoroso de indicadores logísticos essenciais como OTIF (*On-Time In-Full*), Lead Time Médio e análise detalhada de custos de fretes segmentados por modais e armadores.
+Busco unir visão de negócio + dados + automação + tecnologia, desenvolvendo soluções capazes de gerar eficiência e apoiar decisões estratégicas.
 
-### 🛢️ [Pipeline ETL Industrial: Santander Dev Week (Data Engineering)](https://github.com/Auriacarvalho/santander-dev-week-etl)
-Desenvolvimento de um pipeline de engenharia de dados em Python. O script automatiza a extração de perfis de clientes a partir de uma API RESTful (JSON), aplica lógica de negócios para transformação e enriquecimento de dados através de mensagens personalizadas automáticas e realiza a carga reversa via métodos HTTP (`PUT`) de volta ao CRM.
+🛠️ Ferramentas & Tecnologias
 
-### ☁️ [Redução de Custos em Farmácias com AWS (FinOps & Cloud)](https://github.com/Auriacarvalho/Redu-o-dos-Custos-em-Farm-cias-com-AWS)
-Caso prático voltado para a arquitetura de nuvem e eficiência financeira no varejo farmacêutico. Estruturado em 3 etapas estratégicas de adoção AWS: otimização de armazenamento histórico com políticas de ciclo de vida no Amazon S3, computação elástica responsiva com Auto Scaling no Amazon EC2 e governança orçamentária rígida usando AWS Budgets.
+Organizo minhas principais competências de acordo com meu nível de conhecimento e experiência prática.
 
-### 👥 [analise-rh-python (People Analytics)](https://github.com/Auriacarvalho/analise-rh-python)
-Projeto focado em inteligência estratégica de Recursos Humanos. Utiliza Python e Pandas para processar bases cadastrais de funcionários, gerando métricas preditivas de comportamento corporativo, taxas de *turnover* e identificação de fatores-chave para retenção de talentos.
+🔵 Domino / Tenho Experiência
 
-### 🎨 [Sistema de Gestão e Controle de Estoque (Módulo Front-end)](https://github.com/Auriacarvalho/Sistema-de-Gest-o-e-Controle-de-Estoque)
-Módulo visual e de interface (UI/UX) desenvolvido de forma desacoplada utilizando HTML5, CSS3 e JavaScript nativo. O sistema simula fluxos completos de autenticação (login), monitoramento de inventários operacionais (WMS), controle de faturamento financeiro e emissão de relatórios gerenciais pronto para consumir APIs.
+Tecnologias utilizadas com maior frequência em projetos, atividades profissionais e desenvolvimento de soluções.
 
----
+Microsoft Power BI — desenvolvimento de dashboards, KPIs, indicadores e análises executivas
+DAX — criação de medidas, métricas e cálculos analíticos
+Excel Avançado — funções avançadas, tabelas dinâmicas, análise de dados e automação
+VBA / Macros — automação de processos no Excel
+Power Query — ETL, limpeza, transformação e preparação de dados
+Python + Pandas — tratamento, transformação e análise de dados
+SQL / MySQL — consultas, análise e manipulação de dados
+ETL — extração, transformação e preparação de dados
+Data Visualization — criação de indicadores e dashboards
+Modelagem de Dados — relacionamento entre tabelas e estruturação de modelos analíticos
+Star Schema — modelagem dimensional para Business Intelligence
+🟡 Sei
 
-## 📫 Vamos nos conectar?
+Tecnologias que consigo utilizar na prática em projetos e soluções.
 
-* **LinkedIn:** linkedin.com/in/auria-carvalho-manoel
-* **Meu Portfólio de Certificados:** [Acesse meu Repositório de Conquistas e Cursos](https://github.com/Auriacarvalho/Certificados)
+🐍 Python & Dados
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Análise exploratória de dados
+Limpeza e transformação de dados
+Automação de processos
+🗄️ Banco de Dados
+SQL
+MySQL
+PostgreSQL
+SQL Server
+JOINs
+Subqueries
+CTEs
+Agregações
+Views
+Consultas analíticas
+🌐 Desenvolvimento Web
+HTML5
+CSS3
+JavaScript
+Bootstrap
+Node.js
+Express.js
+EJS
+APIs REST
+JSON
+🔄 Engenharia de Dados
+ETL
+APIs REST
+JSON
+Integração de sistemas
+Processamento e transformação de dados
+🧰 Versionamento
+Git
+GitHub
+🟢 Conheço
 
----
+Tecnologias e conceitos com os quais possuo conhecimento e familiaridade, utilizados principalmente em estudos, projetos acadêmicos e experimentais.
 
-> *"Ensinar tecnologia me deu a clareza para analisar dados; analisar dados me dá as respostas para transformar a tecnologia."*
+Machine Learning — conceitos fundamentais e aplicação em projetos de análise de dados
+AWS — conceitos de Cloud Computing e FinOps
+Amazon S3
+Amazon EC2
+Auto Scaling
+AWS Budgets
+Conceitos de governança e otimização de custos em Cloud
+Conceitos de Machine Learning aplicado à análise de dados
+🌐 Desenvolvimento Web
+
+Minha experiência com desenvolvimento Web está concentrada principalmente na construção de aplicações, interfaces e sistemas integrados.
+
+Tecnologias
+
+HTML5 CSS3 JavaScript Bootstrap Node.js Express.js EJS MySQL APIs REST
+
+Tenho experiência com:
+
+Desenvolvimento de interfaces
+Estruturação de páginas Web
+JavaScript para funcionalidades
+Aplicações Node.js
+APIs
+Integração com banco de dados
+Sistemas de gestão
+Interfaces preparadas para integração com serviços externos
+📊 Indicadores & Análises
+
+Tenho interesse e experiência em construção de indicadores voltados para diferentes áreas de negócio.
+
+💰 Comercial
+Faturamento
+Ticket Médio
+Vendas
+Margem
+Performance de produtos
+Performance de clientes
+🚢 Logística
+OTIF — On-Time In-Full
+Lead Time
+Custos de Frete
+Performance por modal
+Performance por armador
+📦 Estoque
+Giro de Estoque
+Curva ABC
+Movimentação de produtos
+Indicadores de inventário
+👥 Recursos Humanos
+Turnover
+Perfil de colaboradores
+Retenção
+Indicadores de pessoas
+People Analytics
+📊 Projetos em Destaque — Portfólio Executivo
+1. 🔄 Inteligência Comercial Integrada
+Análise de Vendas com Excel + Power BI + Python
+
+🔗 Repositório no GitHub
+
+Projeto desenvolvido como uma solução completa de Data Analytics, integrando Excel, Python e Power BI em um pipeline ponta a ponta.
+
+Pipeline
+
+Excel → Python/Pandas → ETL → Modelagem → Power BI → Dashboard Executivo
+
+Principais etapas
+Validação e estruturação dos dados
+Limpeza e tratamento utilizando Python
+Processos de ETL com Pandas
+Transformação e enriquecimento
+Modelagem dimensional
+Star Schema
+Medidas DAX
+Dashboards executivos
+Análise de indicadores comerciais
+Tecnologias
+
+Excel Python Pandas Power BI DAX Power Query ETL Star Schema
+
+2. 🌐 PI-III — Sistema Web de Gestão e Análise de Dados
+Desenvolvimento Web • Banco de Dados • Data Analytics • Machine Learning
+
+Projeto Integrador III desenvolvido durante minha formação acadêmica, combinando desenvolvimento Web, banco de dados e análise de dados.
+
+Embora tenha como base um sistema Web, o projeto também explora conceitos relacionados à análise de dados e Machine Learning, ampliando sua aplicação para diferentes cenários tecnológicos.
+
+🔎 Principais características
+🌐 Desenvolvimento de aplicação Web
+🗄️ Integração com banco de dados
+📊 Coleta e análise de dados
+🧠 Exploração de conceitos de Machine Learning
+🔄 Processamento e transformação de informações
+📈 Geração de análises e indicadores
+🔌 Integração entre aplicação, dados e serviços
+💻 Desenvolvimento de interfaces Web
+🧩 Tecnologias e conceitos
+
+HTML5 CSS3 JavaScript Node.js Express.js MySQL SQL APIs Data Analytics Machine Learning
+
+🎯 Competências demonstradas
+
+Desenvolvimento Web → Banco de Dados → Dados → Análise → Machine Learning
+
+3. 🚢 Logistics Performance — Power BI
+
+🔗 Repositório no GitHub
+
+Dashboard estratégico desenvolvido para o cenário internacional de Freight Forwarding, com foco no acompanhamento da performance operacional e financeira.
+
+Principais indicadores
+🎯 OTIF — On-Time In-Full
+⏱️ Lead Time Médio
+💰 Custos de Frete
+🚢 Análise por armador
+🌎 Análise por modal
+📊 Performance operacional
+📈 Indicadores de eficiência logística
+Tecnologias
+
+Power BI DAX Power Query Data Modeling
+
+4. 🛢️ Pipeline ETL Industrial — Santander Dev Week
+Data Engineering com Python e API REST
+
+🔗 Repositório no GitHub
+
+Pipeline desenvolvido em Python para automação da integração de dados entre uma API RESTful e um CRM.
+
+Pipeline
+
+API REST → JSON → Extração → Transformação → Enriquecimento → PUT → CRM
+
+Conceitos aplicados
+Extração de dados via API
+Consumo de JSON
+Transformação de dados
+Regras de negócio
+Enriquecimento automático
+Automação
+Integração de sistemas
+Requisições HTTP
+Atualização via PUT
+Tecnologias
+
+Python Requests REST API JSON ETL
+
+5. ☁️ Redução de Custos em Farmácias — AWS
+FinOps & Cloud Computing
+
+🔗 Repositório no GitHub
+
+Caso prático voltado para arquitetura de nuvem, eficiência operacional e redução de custos.
+
+Estratégia
+🗄️ Amazon S3
+
+Políticas de ciclo de vida para otimização do armazenamento histórico.
+
+⚙️ Amazon EC2
+
+Computação elástica com Auto Scaling para adequação da capacidade à demanda.
+
+💰 AWS Budgets
+
+Governança financeira e acompanhamento dos gastos em nuvem.
+
+Tecnologias
+
+AWS Amazon S3 Amazon EC2 Auto Scaling AWS Budgets FinOps
+
+6. 👥 análise-rh-python — People Analytics
+
+🔗 Repositório no GitHub
+
+Projeto de People Analytics desenvolvido para análise estratégica de dados de Recursos Humanos.
+
+Utiliza Python e Pandas para tratamento, exploração e análise de bases de colaboradores.
+
+Principais análises
+👥 Perfil dos colaboradores
+📊 Indicadores de turnover
+🔎 Identificação de padrões
+📈 Análise de fatores relacionados à retenção
+💡 Geração de insights
+📊 Visualização dos dados
+Tecnologias
+
+Python Pandas NumPy Matplotlib Seaborn
+
+7. 🎨 Sistema de Gestão e Controle de Estoque
+Módulo Front-end
+
+🔗 Repositório no GitHub
+
+Módulo de interface desenvolvido de forma desacoplada utilizando tecnologias Web e JavaScript.
+
+Funcionalidades
+🔐 Autenticação e Login
+📦 Controle de estoque
+🏭 Monitoramento de inventário
+🚚 Fluxos relacionados a WMS
+💰 Controle de faturamento
+📊 Relatórios gerenciais
+🔌 Estrutura preparada para integração com APIs
+Tecnologias
+
+HTML5 CSS3 JavaScript UI/UX
+
+🧠 Minha Stack
+                         📊 DADOS
+                            │
+             ┌──────────────┼──────────────┐
+             │              │              │
+             ▼              ▼              ▼
+          Excel            APIs            SQL
+             │              │              │
+             └──────────────┼──────────────┘
+                            │
+                            ▼
+                    🐍 Python / Pandas
+                            │
+                            ▼
+                       🔄 ETL / ELT
+                            │
+                            ▼
+                    🗄️ Modelagem
+                            │
+                            ▼
+                      📊 Power BI
+                            │
+                            ▼
+                    📈 Dashboards
+                            │
+                            ▼
+                    💡 INSIGHTS
+                            │
+                            ▼
+                  🎯 DECISÃO DE NEGÓCIO
+🧰 Resumo da Stack Tecnológica
+Área	Tecnologias
+📊 Business Intelligence	Power BI, DAX, Power Query
+📈 Data Analytics	Python, Pandas, NumPy
+🗄️ Banco de Dados	SQL, MySQL, PostgreSQL, SQL Server
+🔄 Data Engineering	Python, ETL, APIs, JSON
+🌐 Web Development	HTML5, CSS3, JavaScript, Node.js, Express.js
+☁️ Cloud & FinOps	AWS, S3, EC2, Auto Scaling, AWS Budgets
+📊 Visualização	Power BI, Matplotlib, Seaborn
+🧠 Machine Learning	Fundamentos e aplicações em projetos
+📦 Versionamento	Git, GitHub
+📊 Excel	Excel Avançado, VBA, Power Query
+🧠 Competências Profissionais
+🔍 Análise
+Pensamento analítico
+Análise exploratória
+Identificação de padrões
+Interpretação de indicadores
+Resolução de problemas
+📊 Business Intelligence
+Desenvolvimento de dashboards
+Modelagem dimensional
+KPIs
+DAX
+ETL
+Data Visualization
+⚙️ Engenharia
+Automação
+Desenvolvimento de pipelines
+APIs
+Integração de sistemas
+Tratamento de dados
+💼 Negócios
+Visão orientada a resultados
+Análise de processos
+Redução de custos
+Indicadores de performance
+Apoio à tomada de decisão
+👩‍🏫 Educação
+Comunicação
+Didática
+Treinamento
+Desenvolvimento de materiais
+Capacitação tecnológica
+📚 Certificados & Formação Complementar
+
+Reúno meus certificados, cursos e formações complementares em um repositório dedicado.
+
+🎓 Acessar meu Portfólio de Certificados
+
+📂 Todos os meus projetos
+
+💻 Explorar meus repositórios no GitHub
+
+📫 Vamos nos conectar?
+
+Estou aberta a oportunidades e conexões nas áreas de:
+
+📊 Data Analytics | 📈 Business Intelligence | 🐍 Python | 🗄️ SQL | ⚙️ Data Engineering | ☁️ Cloud | 🌐 Tecnologia
+
+🔗 LinkedIn
+
+linkedin.com/in/auria-carvalho-manoel
+
+💻 GitHub
+
+github.com/Auriacarvalho
+
+🎓 Certificados
+
+Portfólio de Certificados
+
+💡 Minha visão
+
+Transformar dados em informação, informação em insights e insights em decisões.
+
+⭐ Obrigada pela visita!
+
+Se você chegou até aqui, fique à vontade para explorar meus projetos e conhecer um pouco mais sobre minha trajetória.
+
+Dados não são apenas números. São oportunidades para compreender, melhorar e transformar negócios.
