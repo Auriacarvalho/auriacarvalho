@@ -2,7 +2,7 @@
 Professora de TI | Analista de Business Intelligence & Dados | Data Analytics
 
 🎓 Bacharel em Tecnologia da Informação — 2025
-🎓 Bacharelado em Ciência de Dados — UNIVESP | Conclusão prevista: 2027
+🎓 Bacharelado em Ciência de Dados — UNIVESP | Conclusão prevista: 2026
 
 Sou uma profissional apaixonada por tecnologia, dados, educação e inovação. Minha trajetória combina experiência em Tecnologia da Informação, Business Intelligence, Data Analytics, Engenharia de Dados, Desenvolvimento Web.
 
